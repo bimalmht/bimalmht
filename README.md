@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
--🔭 I’m currently working in CSS & HTML.
--🌱 I’m currently learning Full Stack Development with Python Django.
--👯 I’m looking to collaborate on Web application designing & developement.
--💬 Ask me about CSS & HTML.
--📫 How to reach me: bmtmht@gmail.com
--😄 Pronouns: He/Him
+🔭 I’m currently working in CSS & HTML.<br>
+🌱 I’m currently learning Full Stack Development with Python Django.<br>
+👯 I’m looking to collaborate on Web application designing & developement.<br>
+💬 Ask me about CSS & HTML.<br>
+📫 How to reach me: bmtmht@gmail.com<br>
+😄 Pronouns: He/Him<br>
 
 
